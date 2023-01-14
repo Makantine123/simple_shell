@@ -65,8 +65,3 @@ hsh$
 ```bash
 env
 ```
-
-## Authors
-[Felipe Londoño](https://github.com/felipemontes)
-
-[Julian Villegas](https://github.com/julianchok25)

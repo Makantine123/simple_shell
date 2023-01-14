@@ -12,7 +12,7 @@ char *_getenv(char *name)
 	while (environ[i] != NULL)
 	{
 		ret = strtok(environ[i], "=");
-		if (_strcmp(ret,name) == 0)
+		if (_strcmp(ret, name) == 0)
 		{
 			ret = strtok(NULL, "\0");
 			break;
